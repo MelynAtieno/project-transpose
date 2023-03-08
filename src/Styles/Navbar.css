@@ -1,0 +1,12 @@
+.nav-item{
+    text-decoration: none;
+    display: inline-block;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+    margin-right: 2em;
+}
+.nav{
+    text-align: right;
+}
