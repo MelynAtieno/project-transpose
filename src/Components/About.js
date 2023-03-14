@@ -4,7 +4,7 @@ import "../Styles/About.css"
 function About() {
   return (
     <div>
-        <h1>ABOUT US</h1>
+        <h1>WHO WE ARE</h1>
         <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
         Ratione ipsum dolor consectetur corporis soluta ullam architecto commodi 
