@@ -3,7 +3,8 @@ import "../Styles/About.css"
 
 function About() {
   return (
-    <div>
+    <div className='about'>
+      <div className='who'>
         <h1>WHO WE ARE</h1>
         <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -14,7 +15,10 @@ function About() {
         autem culpa voluptatibus, ipsum corporis assumenda minus animi quaerat eveniet asperiores. Saepe.
   
         </p>
-        <button>LEARN MORE</button>
+      </div> 
+      <div className='services'>
+        <h1>OUR SERVICES</h1>
+      </div>
     </div>
   )
 }
