@@ -18,6 +18,10 @@ function About() {
       </div> 
       <div className='services'>
         <h1>OUR SERVICES</h1>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Eligendi provident nihil sit laborum ipsam autem perferendis error, dicta dolores. 
+        Illum asperiores a inventore earum accusamus aut error sint nobis autem?
+
       </div>
     </div>
   )

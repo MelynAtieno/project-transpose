@@ -1,6 +1,4 @@
 .contact{
-    background-color: black;
-    color: white;
     padding: 2em;
     height: 100px;
     
@@ -9,4 +7,5 @@
 .column{
     float: left;
     width: 33.33%;
+    
 }
